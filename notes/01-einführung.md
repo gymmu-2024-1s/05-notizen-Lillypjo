@@ -35,3 +35,26 @@ erstellt das einen eigenen Block.
 
 Im Schulnetz sind Informationen über uns. Diese werden auf der Webseite
 angezeigt. Name, Geburtstag, etc.
+
+Buch-Objekt aufschreiben:
+
+```JSON
+{
+  "Titel": "Percy Jackson And The Lightning Thief",
+  "Author": "Rick Riordan",
+  "Erscheinungsjahr": "2005",
+  "Seitenanzahl": "375",
+  "Genre": "fantasy - adventure novel",
+}
+```
+
+Redundanz: überflüssige Informationen, Wiederholung. Zum Beispiel Geburtsdatum
+und Alter. Kann unpraktisch sein, da man jeden Tag nachschauen muss, ist die
+Person älter geworden. Redundanz generell sehr schlecht, ausser bei sehr
+wichtigen Informationen, da dann doppelt geprüft wird.
+
+Datenansicht: Redundanz ist erwünscht Datenspeicherung: Redundanz ist
+unerwünscht
+
+mögliche Prüfungsfrage: Was ist Redundanz und weshalb ist sie bei
+Datenspeicherung schlecht? -->
